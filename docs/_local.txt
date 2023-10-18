@@ -1,0 +1,25 @@
+
+<script async custom-element="amp-google-document-embed"
+  src="https://cdn.ampproject.org/v0/amp-google-document-embed-0.1.js"></script>
+
+
+   <amp-story-page-attachment
+     theme="dark"
+     layout="nodisplay"
+     cta-image="https://s3.amazonaws.com/benetta.net/media/logo/ontomatica/ontomatica-symbol-w33-h36-color-202125-bgnd-white.svg"
+     cta-text=""
+     data-title=""
+   >
+     <section>
+       <h2>
+         <i>Knowledge Graphs and Ontologies</i>
+       </h2>
+       <h3>Harald Sach</h3>
+       <amp-google-document-embed
+         src="https://afdsi.com/___tmp-5/Harald-Sack-ontology-english.pdf"
+         height="300"
+         layout="fixed-height"
+       ></amp-google-document-embed>
+     </section>
+   </amp-story-page-attachment>
+

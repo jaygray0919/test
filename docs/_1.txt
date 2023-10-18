@@ -1,0 +1,11 @@
+     <section>
+       <h2>
+         <i>Knowledge Graphs and Ontologies</i>
+       </h2>
+       <h3>Harald Sach</h3>
+       <amp-google-document-embed
+         src="https://afdsi.com/___tmp-5/Harald-Sack-ontology-english.pdf"
+         height="300"
+         layout="fixed-height"
+       ></amp-google-document-embed>
+     </section>
